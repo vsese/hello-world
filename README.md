@@ -1,4 +1,4 @@
 # hello-world
-CSE 360 Hello world git demo
+CSE 360 Hello World git demo
 
 Victor Sese
